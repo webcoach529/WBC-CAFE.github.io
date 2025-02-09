@@ -277,6 +277,17 @@ aside p{
     }
     .big-box img{
         height: auto
+    }
+    /*CONTACT*/
+    #contact .pafe-title{
+        margin-top: 40px;
+    }
+    /*フォーム*/
+    input[type="text"],
+    input[type="email"],
+    textarea{
+        max-width: 100%
+    }
     
 }
         
@@ -319,7 +330,7 @@ aside p{
 /*CONTACT
 ---------------------------*/
 #contact{
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(../images/contact-bg.jpeg);
     min-height: 100vh;
 }
 form div{
