@@ -236,7 +236,7 @@ aside p{
         flex-direction: column;
     }
     article,
-    asaide{
+    aside{
         width: 100%;
     }
 }
