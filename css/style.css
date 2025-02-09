@@ -221,17 +221,26 @@ aside p{
 
     /*HEADER*/
     .main-nav{
-    font-size: 1rem;
-    margin-top: 10px;
+        font-size: 1rem;
+        margin-top: 10px;
     }    
     .main-nav li{
-    margin: 0 20px;
+        margin: 0 20px;
     }
     /*HOME*/
     .home-content{
-    margin-top: 20%;
+        margin-top: 20%;
+    }
+    /*NEWS*/
+    .news-contents{
+        flex-direction: column;
+    }
+    article,
+    asaide{
+        width: 100%;
     }
 }
+        
         
 
 /*MENU
