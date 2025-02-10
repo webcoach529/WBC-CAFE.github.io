@@ -240,10 +240,10 @@ aside p{
         width: 100%;
     }
     #news .page-title{
-        margin-top: 30px
+        margin-top: 30px;
     }
     aside{
-        margin-top: 60px
+        margin-top: 60px;
     }
     .post-info{
         margin-bottom: 30px;
@@ -251,7 +251,7 @@ aside p{
     .post-date{
         width: 70px;
         height: 70px;
-        font-size: 1rem
+        font-size: 1rem;
     }
     .post-date span{
         font-size: 0.875rem;
@@ -260,7 +260,7 @@ aside p{
     .post-title{
         font-size: 1.375rem;
     .post-cat{
-        font-size:0.875rem
+        font-size:0.875rem;
         margin-top: 10px;
     }
     .post-title,
@@ -276,7 +276,7 @@ aside p{
         grid-row: auto;
     }
     .big-box img{
-        height: auto
+        height: auto;
     }
     /*CONTACT*/
     #contact .pafe-title{
@@ -286,7 +286,7 @@ aside p{
     input[type="text"],
     input[type="email"],
     textarea{
-        max-width: 100%
+        max-width: 100%;
     }
     
 }
