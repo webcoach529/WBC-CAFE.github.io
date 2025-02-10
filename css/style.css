@@ -170,7 +170,7 @@ margin: 0 auto;
 .post-title{
     font-family: "Yu Mincho","YuMincho", serif;
     font-size: 2rem;
-    font-weight: noemal;
+    font-weight: normal;
 }
 .post-title,
 .post-cat{
@@ -259,6 +259,7 @@ aside p{
     }
     .post-title{
         font-size: 1.375rem;
+    }
     .post-cat{
         font-size:0.875rem;
         margin-top: 10px;
@@ -279,7 +280,7 @@ aside p{
         height: auto;
     }
     /*CONTACT*/
-    #contact .pafe-title{
+    #contact .page-title{
         margin-top: 40px;
     }
     /*フォーム*/
