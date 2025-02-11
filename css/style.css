@@ -272,13 +272,7 @@ aside p{
     .menu-content{
         margin-top: 20%;
     }
-    .big-box{
-        grid-column: auto;
-        grid-row: auto;
-    }
-    .big-box img{
-        height: auto;
-    }
+    
     /*CONTACT*/
     #contact .page-title{
         margin-top: 40px;
